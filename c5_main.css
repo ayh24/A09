@@ -59,8 +59,13 @@ main {
 main h1 {
 	font-size: 150%;
 	padding: .3em 0;
+	border-style: double;
     border-top: 3px solid #931420;
     border-bottom: 3px solid #931420;
+	border-right: 3px solid #931420;
+	border-left: 3px solid #931420;
+	border-radius: 15px;
+	box-shadow: 2px 5px;
 }
 
 /* the h1 styles for exercise 5-2
